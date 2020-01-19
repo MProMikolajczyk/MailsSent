@@ -1,0 +1,2 @@
+gmail_user: marekmikolajczyk87@gmail.com
+gmail_password: 

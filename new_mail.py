@@ -1,0 +1,5 @@
+subject = 'Widomość testowa'
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu lectus eu magna feugiat laoreet. Suspendisse nec lacus et felis lobortis porttitor vitae a magna. Vivamus tempor turpis non congue vulputate. In eleifend, velit sit amet porta vehicula, magna dui placerat urna, et scelerisque massa mi vel nibh. Mauris porta nisi ut ex mattis mattis. Fusce feugiat erat ac erat viverra, nec bibendum elit dictum. Donec pretium urna diam, non ultricies tortor ultrices nec. Sed sagittis efficitur eros, vel placerat justo placerat a. Praesent venenatis nisi eget odio tincidunt, ornare tristique purus feugiat. Nulla facilisi. Maecenas cursus, elit sed facilisis pretium, diam dolor rutrum dui, et dapibus arcu urna eu tortor. Quisque mauris sem, posuere non dolor imperdiet, auctor porttitor metus. In hac habitasse platea dictumst. Curabitur eget viverra dui. Sed mollis ex elit, ut lobortis lacus sagittis nec. Pellentesque efficitur nulla nec mattis pellentesque. "
+url_image =  'mapa.jpg'
+
+addres_mails = ['marekmikolajczyk87@gmail.com', 'cudnealpaki@gmail.com']
